@@ -1,2 +1,1 @@
-# laladev.wtf
-My new website.
+# ygtdev.xyz
