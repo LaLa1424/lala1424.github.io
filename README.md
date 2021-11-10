@@ -1,1 +1,1 @@
-# ygtdev.xyz
+# laladev.wtf
