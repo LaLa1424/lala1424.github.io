@@ -1,2 +1,2 @@
-# egmdev.xyz
+# laladev.wtf
 My new website.
