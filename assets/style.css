@@ -28,7 +28,9 @@ html {
 }
 
 .bg-color {
+    background-size: cover;
     background-color: var(--bg-color);
+    backdrop-filter: blur(10px);
 }
 
 .main-text-color {
